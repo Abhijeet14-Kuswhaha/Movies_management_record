@@ -1,0 +1,502 @@
+[
+  {
+    "movie_id": 1,
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "year": 2010,
+    "rating": 8.8,
+    "language": "English",
+    "duration": 148,
+    "director": "Christopher Nolan"
+  },
+  {
+    "movie_id": 2,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "year": 2008,
+    "rating": 9.0,
+    "language": "English",
+    "duration": 152,
+    "director": "Christopher Nolan"
+  },
+  {
+    "movie_id": 3,
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "rating": 8.7,
+    "language": "English",
+    "duration": 169,
+    "director": "Christopher Nolan"
+  },
+  {
+    "movie_id": 4,
+    "title": "Titanic",
+    "genre": "Romance",
+    "year": 1997,
+    "rating": 7.9,
+    "language": "English",
+    "duration": 195,
+    "director": "James Cameron"
+  },
+  {
+    "movie_id": 5,
+    "title": "Avatar",
+    "genre": "Sci-Fi",
+    "year": 2009,
+    "rating": 7.8,
+    "language": "English",
+    "duration": 162,
+    "director": "James Cameron"
+  },
+  {
+    "movie_id": 6,
+    "title": "Gladiator",
+    "genre": "Action",
+    "year": 2000,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 155,
+    "director": "Ridley Scott"
+  },
+  {
+    "movie_id": 7,
+    "title": "The Matrix",
+    "genre": "Sci-Fi",
+    "year": 1999,
+    "rating": 8.7,
+    "language": "English",
+    "duration": 136,
+    "director": "The Wachowskis"
+  },
+  {
+    "movie_id": 8,
+    "title": "Joker",
+    "genre": "Crime",
+    "year": 2019,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 122,
+    "director": "Todd Phillips"
+  },
+  {
+    "movie_id": 9,
+    "title": "Parasite",
+    "genre": "Thriller",
+    "year": 2019,
+    "rating": 8.5,
+    "language": "Korean",
+    "duration": 132,
+    "director": "Bong Joon-ho"
+  },
+  {
+    "movie_id": 10,
+    "title": "Avengers Endgame",
+    "genre": "Action",
+    "year": 2019,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 181,
+    "director": "Russo Brothers"
+  },
+  {
+    "movie_id": 11,
+    "title": "3 Idiots",
+    "genre": "Comedy",
+    "year": 2009,
+    "rating": 8.4,
+    "language": "Hindi",
+    "duration": 170,
+    "director": "Rajkumar Hirani"
+  },
+  {
+    "movie_id": 12,
+    "title": "Dangal",
+    "genre": "Drama",
+    "year": 2016,
+    "rating": 8.3,
+    "language": "Hindi",
+    "duration": 161,
+    "director": "Nitesh Tiwari"
+  },
+  {
+    "movie_id": 13,
+    "title": "PK",
+    "genre": "Comedy",
+    "year": 2014,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 153,
+    "director": "Rajkumar Hirani"
+  },
+  {
+    "movie_id": 14,
+    "title": "Lagaan",
+    "genre": "Drama",
+    "year": 2001,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 224,
+    "director": "Ashutosh Gowariker"
+  },
+  {
+    "movie_id": 15,
+    "title": "Zindagi Na Milegi Dobara",
+    "genre": "Drama",
+    "year": 2011,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 155,
+    "director": "Zoya Akhtar"
+  },
+  {
+    "movie_id": 16,
+    "title": "Drishyam",
+    "genre": "Thriller",
+    "year": 2015,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 163,
+    "director": "Nishikant Kamat"
+  },
+  {
+    "movie_id": 17,
+    "title": "Andhadhun",
+    "genre": "Thriller",
+    "year": 2018,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 139,
+    "director": "Sriram Raghavan"
+  },
+  {
+    "movie_id": 18,
+    "title": "Gully Boy",
+    "genre": "Drama",
+    "year": 2019,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 153,
+    "director": "Zoya Akhtar"
+  },
+  {
+    "movie_id": 19,
+    "title": "Barfi",
+    "genre": "Romance",
+    "year": 2012,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 151,
+    "director": "Anurag Basu"
+  },
+  {
+    "movie_id": 20,
+    "title": "Queen",
+    "genre": "Comedy",
+    "year": 2013,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 146,
+    "director": "Vikas Bahl"
+  },
+  {
+    "movie_id": 21,
+    "title": "RRR",
+    "genre": "Action",
+    "year": 2022,
+    "rating": 7.8,
+    "language": "Telugu",
+    "duration": 182,
+    "director": "S. S. Rajamouli"
+  },
+  {
+    "movie_id": 22,
+    "title": "Baahubali",
+    "genre": "Action",
+    "year": 2015,
+    "rating": 8.0,
+    "language": "Telugu",
+    "duration": 159,
+    "director": "S. S. Rajamouli"
+  },
+  {
+    "movie_id": 23,
+    "title": "Kantara",
+    "genre": "Drama",
+    "year": 2022,
+    "rating": 8.5,
+    "language": "Kannada",
+    "duration": 148,
+    "director": "Rishab Shetty"
+  },
+  {
+    "movie_id": 24,
+    "title": "KGF Chapter 1",
+    "genre": "Action",
+    "year": 2018,
+    "rating": 8.2,
+    "language": "Kannada",
+    "duration": 156,
+    "director": "Prashanth Neel"
+  },
+  {
+    "movie_id": 25,
+    "title": "KGF Chapter 2",
+    "genre": "Action",
+    "year": 2022,
+    "rating": 8.3,
+    "language": "Kannada",
+    "duration": 168,
+    "director": "Prashanth Neel"
+  },
+  {
+    "movie_id": 26,
+    "title": "Spider-Man",
+    "genre": "Action",
+    "year": 2002,
+    "rating": 7.4,
+    "language": "English",
+    "duration": 121,
+    "director": "Sam Raimi"
+  },
+  {
+    "movie_id": 27,
+    "title": "Iron Man",
+    "genre": "Action",
+    "year": 2008,
+    "rating": 7.9,
+    "language": "English",
+    "duration": 126,
+    "director": "Jon Favreau"
+  },
+  {
+    "movie_id": 28,
+    "title": "Black Panther",
+    "genre": "Action",
+    "year": 2018,
+    "rating": 7.3,
+    "language": "English",
+    "duration": 134,
+    "director": "Ryan Coogler"
+  },
+  {
+    "movie_id": 29,
+    "title": "Doctor Strange",
+    "genre": "Fantasy",
+    "year": 2016,
+    "rating": 7.5,
+    "language": "English",
+    "duration": 115,
+    "director": "Scott Derrickson"
+  },
+  {
+    "movie_id": 30,
+    "title": "Thor Ragnarok",
+    "genre": "Action",
+    "year": 2017,
+    "rating": 7.9,
+    "language": "English",
+    "duration": 130,
+    "director": "Taika Waititi"
+  },
+  {
+    "movie_id": 31,
+    "title": "Toy Story",
+    "genre": "Animation",
+    "year": 1995,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 81,
+    "director": "John Lasseter"
+  },
+  {
+    "movie_id": 32,
+    "title": "Finding Nemo",
+    "genre": "Animation",
+    "year": 2003,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 100,
+    "director": "Andrew Stanton"
+  },
+  {
+    "movie_id": 33,
+    "title": "Coco",
+    "genre": "Animation",
+    "year": 2017,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 105,
+    "director": "Lee Unkrich"
+  },
+  {
+    "movie_id": 34,
+    "title": "Frozen",
+    "genre": "Animation",
+    "year": 2013,
+    "rating": 7.4,
+    "language": "English",
+    "duration": 102,
+    "director": "Chris Buck"
+  },
+  {
+    "movie_id": 35,
+    "title": "The Lion King",
+    "genre": "Animation",
+    "year": 1994,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 88,
+    "director": "Roger Allers"
+  },
+  {
+    "movie_id": 36,
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "year": 1994,
+    "rating": 9.3,
+    "language": "English",
+    "duration": 142,
+    "director": "Frank Darabont"
+  },
+  {
+    "movie_id": 37,
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "year": 1994,
+    "rating": 8.8,
+    "language": "English",
+    "duration": 142,
+    "director": "Robert Zemeckis"
+  },
+  {
+    "movie_id": 38,
+    "title": "The Godfather",
+    "genre": "Crime",
+    "year": 1972,
+    "rating": 9.2,
+    "language": "English",
+    "duration": 175,
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "movie_id": 39,
+    "title": "Fight Club",
+    "genre": "Drama",
+    "year": 1999,
+    "rating": 8.8,
+    "language": "English",
+    "duration": 139,
+    "director": "David Fincher"
+  },
+  {
+    "movie_id": 40,
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "year": 1994,
+    "rating": 8.9,
+    "language": "English",
+    "duration": 154,
+    "director": "Quentin Tarantino"
+  },
+  {
+    "movie_id": 41,
+    "title": "The Prestige",
+    "genre": "Mystery",
+    "year": 2006,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 130,
+    "director": "Christopher Nolan"
+  },
+  {
+    "movie_id": 42,
+    "title": "Whiplash",
+    "genre": "Drama",
+    "year": 2014,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 106,
+    "director": "Damien Chazelle"
+  },
+  {
+    "movie_id": 43,
+    "title": "La La Land",
+    "genre": "Musical",
+    "year": 2016,
+    "rating": 8.0,
+    "language": "English",
+    "duration": 128,
+    "director": "Damien Chazelle"
+  },
+  {
+    "movie_id": 44,
+    "title": "The Social Network",
+    "genre": "Drama",
+    "year": 2010,
+    "rating": 7.8,
+    "language": "English",
+    "duration": 120,
+    "director": "David Fincher"
+  },
+  {
+    "movie_id": 45,
+    "title": "Oppenheimer",
+    "genre": "Drama",
+    "year": 2023,
+    "rating": 8.6,
+    "language": "English",
+    "duration": 180,
+    "director": "Christopher Nolan"
+  },
+  {
+    "movie_id": 46,
+    "title": "Animal",
+    "genre": "Action",
+    "year": 2023,
+    "rating": 6.1,
+    "language": "Hindi",
+    "duration": 204,
+    "director": "Sandeep Reddy Vanga"
+  },
+  {
+    "movie_id": 47,
+    "title": "12th Fail",
+    "genre": "Drama",
+    "year": 2023,
+    "rating": 9.0,
+    "language": "Hindi",
+    "duration": 147,
+    "director": "Vidhu Vinod Chopra"
+  },
+  {
+    "movie_id": 48,
+    "title": "Jawan",
+    "genre": "Action",
+    "year": 2023,
+    "rating": 7.0,
+    "language": "Hindi",
+    "duration": 169,
+    "director": "Atlee"
+  },
+  {
+    "movie_id": 49,
+    "title": "Pathaan",
+    "genre": "Action",
+    "year": 2023,
+    "rating": 5.9,
+    "language": "Hindi",
+    "duration": 146,
+    "director": "Siddharth Anand"
+  },
+  {
+    "movie_id": 50,
+    "title": "Stree",
+    "genre": "Horror Comedy",
+    "year": 2018,
+    "rating": 7.5,
+    "language": "Hindi",
+    "duration": 128,
+    "director": "Amar Kaushik"
+  }
+]
